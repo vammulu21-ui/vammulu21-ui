@@ -37,9 +37,6 @@ An AI-focused project exploring how resumes can be analyzed and matched against 
 ### 3. Online Photography Gallery
 A web project designed to showcase photography in an organized and visually appealing gallery.
 
-### 4. Population Growth Model
-A mathematical modeling project exploring population changes across young, adult, and old age groups using matrices and eigenvalues.
-
 ---
 
 ## 📊 GitHub Statistics
