@@ -27,6 +27,10 @@ AI-Powered Smart College Problem Resolution System.
 
 A project concept designed to help students report campus issues and support complaint categorization, prioritization, and tracking.
 
+A smart college complaint management project designed to help students report campus issues and track their resolution.
+
+🌐 **Live Demo:** [Open CampusFlow](https://campus-flow-fawn-pi.vercel.app)
+
 ### 2. AI Resume Screening System
 An AI-focused project exploring how resumes can be analyzed and matched against job requirements.
 
